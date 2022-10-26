@@ -1,0 +1,98 @@
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+ul {
+    padding: 0px!important;
+}
+
+.menu-principal {
+    width: 100%;
+    background-color: #291010;
+    height: 500px;
+    border-bottom: 3px solid #a70000;
+}
+
+main{
+    margin: 0 auto;
+    width: 980px;
+    float: left;
+    position: relative;
+}
+
+.logo{
+    float: right;
+    padding: 5px;
+    width: 30%;
+}
+
+.header-2{
+    background-color: #291010;
+    width: 191.7%;
+    height: 15px;
+    border-bottom: 3px solid #a70000;
+   padding: 50px; 
+}
+
+.menu ul li{
+    display: inline-block;
+    color: #ffffff;
+    margin-left: 80px;
+    height: 25px;
+}
+
+.menu ul li:hover{
+    border-bottom: 2px solid #a70000;
+}
+
+.menu ul li a:hover {
+    color: #a70000;
+}
+
+.menu ul li a{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+
+.menu {
+    width: 70%;
+    float: left;
+}
+
+.busca {
+    text-align: center;
+    width: 30%;
+    float: right;
+}
+
+.busca input {
+    height: 25px;
+    padding: 7px;
+    width: 190px;
+    margin-top: 10px;
+    border: 1px solid #a70000;
+}
+
+.col-100 {
+    width: 49.40%;
+    float: left;
+    position: relative;
+}
+
+.col-200 {
+    width: 49.40%;
+    float: left;
+    position: relative;
+}
+
+.slider-principal{
+    width: 500px;
+    height: 500px;
+    float: left;
+    position: relative;
+}
+
