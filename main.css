@@ -84,5 +84,34 @@ main{
     position: relative;
 }
 
+.sobre{
+    padding-top: 10;
+}
 
+.sobre-projeto{
+    height: 35;
+    color: #291010;
+    font-size: 50px;
+}
+
+.sobrenos{
+    font-size: 25;
+    padding-top: 40;
+}
+
+
+.contato{
+    padding-top: 10;
+}
+
+.contato-projeto{
+    height: 35;
+    color: #291010;
+    font-size: 50px;
+}
+
+.contatos{
+    font-size: 25;
+    padding-top: 40;
+}
 
